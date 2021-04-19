@@ -1,11 +1,17 @@
-# Encabezado de nivel 1
+# Encabezado un numeral al inicio
 
-## Encabezado de nivel 2
+## Encabezado dos numerales al inicio
 
-### Encabezado de nivel 3
+### Encabezado tres numerales al inicio
 
-#### Encabezado de nivel 4
+#### Encabezado cuatro numerales al inicio
 
-##### Encabezado de nivel 5
+##### Encabezado cinco numerales al inicio
 
-###### Encabezado de nivel 6
+###### Encabezado seis numerales al inicio
+
+Texto normal
+
+**Dos asteríscos a cada lado para negrita**
+
+*Un asterísco para itálica*
