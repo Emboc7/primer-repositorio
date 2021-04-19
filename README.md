@@ -1,5 +1,11 @@
-# Título del documento
+# Encabezado de nivel 1
 
-## Subtítulo del documento
+## Encabezado de nivel 2
 
-### Otro subtítulo del documento
+### Encabezado de nivel 3
+
+#### Encabezado de nivel 4
+
+##### Encabezado de nivel 5
+
+###### Encabezado de nivel 6
