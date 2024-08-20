@@ -12,3 +12,9 @@ Texto normal
 *Un asterísco para itálica*
 
 [Nombre](enlace)
+
+1. Elemento
+2. elemento
+
+- Lista
+- Lista
